@@ -16,3 +16,5 @@ pandas numpy matplotlib keras tensorflow scikit-learn
 Neural Network
 
 CNN Network Gender Accuracy: 90.00 Age MAE: 6.5
+
+Code execution video :https://drive.google.com/file/d/1yS0izGRigLk_peq47gSD3NPdspJsKL5A/view?usp=sharing
